@@ -31,6 +31,7 @@ We explore a novel task setting for text style transfer, in which it is required
 
 # Output Samples
 To make it easier for other researchers to compare our methods, we release the outputs of our methods for YELP and AMAZON.
-**outputs/**: For each dataset, we provide three kinds of outputs (content-strengthen, content-style-balanced, and style-strengthen) of our method
+
+For each dataset, we provide three kinds of outputs (content-strengthen, content-style-balanced, and style-strengthen) of our method, which can be found in **outputs/**.
 
 
