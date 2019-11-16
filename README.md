@@ -25,7 +25,8 @@ We explore a novel task setting for text style transfer, in which it is required
 # Usage
 - **TextCNN.ipynb**: Pretrain a Text-CNN on the train set for predictor training.
 - **TextBiLSTM.ipynb**: Pretrain a Text-BiLSTM on the whole dataset for evaluation
-- **KenLM / Moses**: Pretrain a language model. **Text\_Style\_Transfer\_Pipeline.ipynb**: The pipeline (training, inference, and evaluation) for text sentiment transfer and text gender style transfer.
+- **KenLM / Moses**: Pretrain a language model. 
+- **Text\_Style\_Transfer\_Pipeline.ipynb**: The pipeline (training, inference, and evaluation) for text sentiment transfer and text gender style transfer.
 - **Multi\_Finegrained\_Control.ipynb**: The pipeline (training, and inference) for multiple fine-grained attributes control.
 - **Eval\_Multi.ipynb**: The Evaluation of the multiple fine-grained attributes control.
 
