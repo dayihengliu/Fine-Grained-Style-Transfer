@@ -10,8 +10,9 @@ We explore a novel task setting for text style transfer, in which it is required
 
 
 # Dataset
-- The Yelp and Amazon of the text sentiment transfer task can be download at http://bit.ly/2LHMUsl or https://worksheets.codalab.org/worksheets/0xe3eb416773ed4883bb737662b31b4948/ 
-- The Yelp of the text gender style transfer can be download at http://tts.speech.cs.cmu.edu/style_models/gender_classifier.tar
+- The Yelp and Amazon of the text sentiment transfer task can be downloaded at http://bit.ly/2LHMUsl or https://worksheets.codalab.org/worksheets/0xe3eb416773ed4883bb737662b31b4948/ 
+- The Yelp of the text gender style transfer can be downloaded at http://tts.speech.cs.cmu.edu/style_models/gender_classifier.tar
+- The pre-proessed dataset can be downloaded at https://drive.google.com/open?id=1OoSunDBIhAlfDpznlzoCJucv9kgz41rx 
 
 # Prerequisites
 - Jupyter notebook 4.4.0
