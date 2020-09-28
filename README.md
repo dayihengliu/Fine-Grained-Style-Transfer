@@ -17,7 +17,8 @@ We provide a TensorFlow implementation of the **Revision in Continuous Space: Un
 # Usage
 - **TextCNN.ipynb**: Pretrain a Text-CNN on the train set for predictor training.
 - **TextBiLSTM.ipynb**: Pretrain a Text-BiLSTM on the whole dataset for evaluation
-- **KenLM / Moses**: Pretrain a language model. **Text\_Style\_Transfer\_Pipeline.ipynb**: The pipeline (training, inference, and evaluation) for text sentiment transfer and text gender style transfer.
+- **KenLM / Moses**: Pretrain a language model. 
+- **Text\_Style\_Transfer\_Pipeline.ipynb**: The pipeline (training, inference, and evaluation) for text sentiment transfer and text gender style transfer.
 - **Multi\_Finegrained\_Control.ipynb**: The pipeline (training, and inference) for multiple fine-grained attributes control.
 - **Eval\_Multi.ipynb**: The Evaluation of the multiple fine-grained attributes control.
 
